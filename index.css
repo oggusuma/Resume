@@ -20,7 +20,7 @@ img{
   box-shadow: 0 8px 8px 8px lightgreen;
 }
 @media only screen and (main-device-written:350px) and (main-device-written:460px) {
-  .card{
+  .card2{
     width: 100%;
   }
 
